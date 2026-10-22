@@ -152,4 +152,4 @@ def qwert_to_hangul(word:str):
     return result
 
 # 테스트
-print(__search("섹스"))
+print(__search("안녕"))
